@@ -1,4 +1,4 @@
-This is a fork from Marfusios's Nostr Client for C#
+This is a fork from Marfusios's Nostr Client for C#.
 
 ![Logo](https://raw.githubusercontent.com/Marfusios/nostr-client/master/nostr.png)
 # Nostr client 
