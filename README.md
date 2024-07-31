@@ -1,3 +1,5 @@
+This is a fork from Marfusios's Nostr Client for C#
+
 ![Logo](https://raw.githubusercontent.com/Marfusios/nostr-client/master/nostr.png)
 # Nostr client 
 [![.NET Core](https://github.com/Marfusios/nostr-client/actions/workflows/dotnet-core.yml/badge.svg)](https://github.com/Marfusios/nostr-client/actions/workflows/dotnet-core.yml) [![NuGet version](https://badge.fury.io/nu/Nostr.Client.svg)](https://badge.fury.io/nu/Nostr.Client) [![NuGet downloads](https://img.shields.io/nuget/dt/Nostr.Client)](https://www.nuget.org/packages/Nostr.Client)
